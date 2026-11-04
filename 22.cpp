@@ -1,4 +1,4 @@
-#include<iostream>                   //Program to check wheather two strings are Anagram or not
+#include<iostream>                   //Program To Check Wheather Two Strings Are Anagram Or Not
 using namespace std;
 int main()
 {
