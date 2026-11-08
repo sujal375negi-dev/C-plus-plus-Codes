@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>                                          //program to rotate array anticlockwise
 using namespace std;
 
 void swap(int nums[],int size,int i,int j)
