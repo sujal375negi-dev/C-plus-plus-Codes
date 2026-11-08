@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>                                       //Program to find unique element in an array
 using namespace std;
 int main()
 {
