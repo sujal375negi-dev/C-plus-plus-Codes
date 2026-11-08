@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>                  //program to reverse string using stack
 #include<stack>
 using namespace std;
 int main()
