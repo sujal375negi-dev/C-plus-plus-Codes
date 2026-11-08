@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>                            //program to print table of a number
 using namespace std;
 int main()
 {
